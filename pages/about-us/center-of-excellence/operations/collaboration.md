@@ -27,7 +27,7 @@ TTS has a tradition of encouraging staff to get to know each other and talk shop
 As employees of GSA, FAS, and TTS we must adhere to a few layers of conduct codes:
 - [GSA Information Technology (IT) General Rules of Behavior](https://insite.gsa.gov/directives-library/gsa-information-technology-it-general-rules-of-behavior-4)
 - [TTS Code of Conduct]({% page "/about-us/code-of-conduct/" %})
-- [TTS Slack Code of Conduct](#slack-code-of-conduct)
+- [TTS Slack Code of Conduct](#tts-values-code-of-conduct)
 
 ## TTS Slack Code of Conduct
 

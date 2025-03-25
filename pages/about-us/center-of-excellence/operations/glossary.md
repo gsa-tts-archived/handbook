@@ -1,5 +1,6 @@
 ---
 title: Terminology and glossaries
+cspell: ignore TTS's
 ---
 
 Acronyms and lingo abound in both government and technology. Here are some resources to help navigate the jargon:

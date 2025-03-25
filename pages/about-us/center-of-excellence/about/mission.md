@@ -1,5 +1,6 @@
 ---
 title: Mission, approach, and history
+cspell: ignore CTO's
 ---
 
 # Mission and Approach
