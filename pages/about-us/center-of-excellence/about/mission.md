@@ -1,6 +1,5 @@
 ---
 title: Mission, approach, and history
-cspell: ignore CTO's
 ---
 
 # Mission and Approach
@@ -61,7 +60,7 @@ The TTS approach focuses on these tenets:
 
 TTS was [officially launched within GSA on March 19, 2014](https://TTS.gsa.gov/2014/03/19/hello-world-we-are-TTS/). It became part of TTS in 2015.
 
-The creation of TTS came in the wake of the work of several programs, teams, and nonprofits that focused on improving the way the government approached technology. These included the Consumer Financial Protection Bureau, the Office of Personnel Management Lab, the Sunlight Foundation, Code for America, the U.S. CTO’s office, and the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program.
+The creation of TTS came in the wake of the work of several programs, teams, and nonprofits that focused on improving the way the government approached technology. These included the Consumer Financial Protection Bureau, the Office of Personnel Management Lab, the Sunlight Foundation, Code for America, the U.S. Chief Technology Office, and the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program.
 
 TTS is a direct outgrowth of the PIF program, which was established by the White House in 2012. It placed experienced technologists in various federal agencies for six months, where they helped them learn and apply modern and user-centric approaches to building and maintaining systems, websites, and applications. PIF was moved to GSA in 2013.
 
