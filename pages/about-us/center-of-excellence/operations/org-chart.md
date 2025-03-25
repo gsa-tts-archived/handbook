@@ -15,4 +15,4 @@ title: Organization structure and leadership
 - [Engagement roles and responsibilities](#TODO)
 - [Managing blockers, escalations, and adjustments](#TODO)
 {% endcomment %}
-- [Supervisor responsibilities]({% page "about-us/tts-consulting/operations/supervisor-responsibilities/" %})
+- [Supervisor responsibilities]({% page "about-us/center-of-excellence/operations/supervisor-responsibilities/" %})
