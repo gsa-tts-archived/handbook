@@ -22,7 +22,7 @@ Below summarizes a few of the regulations most relevant to TTS’s work.
 **[Intergovernmental Cooperation Act (IGCA)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title31-section6505&num=0&edition=1994) as further detailed in [OMB Circular A-97](https://obamawhitehouse.archives.gov/omb/circulars_a097/)**
 
 - Defines the process for entering an agreement with a state, local, or tribal partner.
-= TTS may only provide agile acquisition consulting services.
+= TTS may only provide agile acquisition services.
 - The project must be linked to federal funding.
 - A request for TTS's services must be made by the chief executive of the entity.
 

@@ -26,7 +26,7 @@ Some notes on engagement phases:
 
 - **We balance project management, delivery, and capacity building throughout these phases** to meet the partner’s needs and achieve our mission.
 
-- **The Implementation phase frequently includes some kind of acquisition** (either an assisted acquisition operated by TTS Consulting, or acquisition consulting with a partner’s acquisition folks). The sequence and duration of acquisition work depends on the needs of the partner. CoE tends to do the acquisition work right at the beginning of Implementation, while TTS typically does any acquisition work in parallel with the Implementation activities conducted by our fed team.
+- **The Implementation phase frequently includes some kind of acquisition** (either an assisted acquisition operated by TTS, or acquisition with a partner’s acquisition folks). The sequence and duration of acquisition work depends on the needs of the partner. CoE tends to do the acquisition work right at the beginning of Implementation, while TTS typically does any acquisition work in parallel with the Implementation activities conducted by our fed team.
 
 - **Depending on the phase and scope of your project, there are various standards for delivery and compliance** that your team needs to adhere to. When relevant to common activities, laws, regulations, standards, and/or best practices are highlighted.
 
@@ -34,7 +34,7 @@ Some notes on engagement phases:
 
 In the set up phase, our goals are to:
 
-- Understand the scope of problem (identify the organizational problem or need) and pitch how TTS Consulting can help
+- Understand the scope of problem (identify the organizational problem or need) and pitch how TTS can help
 - Set expectations on the level of effort, team composition, and cost to our partners
 - Establish a legal agreement to provide funding for a team
 - Onboard the team and bring them up to speed on expectations set
@@ -87,7 +87,7 @@ In the implementation phase, our goals are to:
 
 - Build trust in the path forward by delivering on the first slice of work
 - Continuously validate and correct the delivery path to de-risk overall effort
-- Enable partner to continue the work after TTS Consulting departs
+- Enable partner to continue the work after TTS departs
 
 To achieve these goals, we frequently:
 

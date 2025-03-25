@@ -94,7 +94,7 @@ Several recurring meetings share information especially relevant to TTS staff:
 |----------|-----------|--------|
 | **TTS All Hands**<br> To share updates with all staff. Chat happens in the meeting chat and {% slack_channel "#townhall" %}. [Archive of past recordings, slide decks, and question docs](https://docs.google.com/spreadsheets/d/1KK1aU5fN0wiOtcHbVWm-FX4-ITFrY3Qohvny_Tazrl0/edit?gid=0#gid=0). | For all TTS staff  | 60 minutes every other month |
 | **TTS Project Snapshot**<br> To brief TTS leadership on current project work | TTS or CoE leadership, TTS leadership | 60 minutes for each monthly |
-| **TTS Monthly Program Review for Consulting**<br> For TTS leadership to share with TTS leadership | TTS leadership, TTS front officer, TTS Ops representative | 60 minutes monthly |
+| **TTS Monthly Program Review**<br> For TTS leadership to share with TTS leadership | TTS leadership, TTS front officer, TTS Ops representative | 60 minutes monthly |
 
 #### CoE-focused meetings
 

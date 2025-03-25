@@ -13,7 +13,7 @@ Supervisors, CORs, and acquisition consultants may have additional mandatory tra
 
 ## Other trainings
 
-### TTS Consulting group trainings
+### TTS group trainings
 
 Training themes across the organization are established annually. Staff work to bring in trainings to meet these needs. They are shared via email and Slack.
 

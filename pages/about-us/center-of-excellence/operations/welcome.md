@@ -7,7 +7,6 @@ Welcome to the Technology Transformation Services (TTS)! We’re so glad to have
 As you work through the onboarding checklist provided to you by TTS People Ops, we encourage you to ask lots of questions. Your onboarding buddy is a great resource, as are the TTS portions of this handbook. Read through it as time allows, prioritizing these pages:
 
 - [About this handbook]({% page "about-us/center-of-excellence/about/handbook/" %})
-- [About the TTS Office of Consulting]({% page "about-us/center-of-excellence/about/mission/" %})
 - [Compliance with laws and regulations]({% page "about-us/center-of-excellence/operations/regulations/" %})
 - [Conduct and norms]({% page "about-us/center-of-excellence/operations/conduct-and-norms/" %})
 - [Internal communications]({% page "about-us/center-of-excellence/operations/internal-communications/" %})

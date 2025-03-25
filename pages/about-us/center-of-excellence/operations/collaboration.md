@@ -14,10 +14,6 @@ TTS has a tradition of encouraging staff to get to know each other and talk shop
 
 [TTS’s working groups, and guilds]({% page "/training-and-development/working-groups-and-guilds-101/" %}) formed in the early days of TTS as a way to share best practices and learn from each other. These groups and guilds have expanded and now welcome people from across TTS.
 
-A couple groups particularly focused on TTS work and practices are:
-
-- Consulting Guild (Join the Slack channel [#g-consulting](https://gsa-tts.slack.com/channels/g-consulting))
-
 ## Practices for remote meetings
 
 - Work from a quiet space without much background noise. If you need to discuss sensitive topics, present to partners or stakeholders, or handle personnel issues, make sure you have privacy.
@@ -28,7 +24,7 @@ A couple groups particularly focused on TTS work and practices are:
 
 ## Conduct codes
 
-As employees of GSA, FAS, TTS, and TTS Consulting, we must adhere to a few layers of conduct codes:
+As employees of GSA, FAS, and TTS we must adhere to a few layers of conduct codes:
 - [GSA Information Technology (IT) General Rules of Behavior](https://insite.gsa.gov/directives-library/gsa-information-technology-it-general-rules-of-behavior-4)
 - [TTS Code of Conduct]({% page "/about-us/code-of-conduct/" %})
 - [TTS Slack Code of Conduct](#slack-code-of-conduct)

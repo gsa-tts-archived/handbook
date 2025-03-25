@@ -1,7 +1,7 @@
 ---
 title: TTS Handbook
 redirect_from:
-  - /about-us/tts-consulting/
+  - /about-us/tts-coe
 ---
 
 The TTS Handbook establishes standard operating procedures (SOPs) for TTS and its offices. It sets expectations for managing our business, and delivering for our partners.
