@@ -445,12 +445,8 @@ primary:
                 url: about-us/center-of-excellence/operations/training/
               - text: Operational initiatives and maintenance support
                 url: about-us/center-of-excellence/operations/delivery-assurance/
-              - text: Management oversight of projects
-                url: about-us/center-of-excellence/operations/oversight/
               - text: Supervisor responsibilities
                 url: about-us/center-of-excellence/operations/supervisor-responsibilities/
-              - text: Managing public or shared resources
-                url: about-us/center-of-excellence/operations/shared-resources/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
