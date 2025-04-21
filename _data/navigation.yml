@@ -457,9 +457,6 @@ primary:
               - text: Solutions history
                 url: office-of-solutions/history/
                 internal: true
-              - text: Solutions org chart
-                url: office-of-solutions/org-chart/
-                internal: false
           - text: Portfolios
             children:
               - text: Data
