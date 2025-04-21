@@ -51,11 +51,7 @@ There is also some information that should **not** be included in the Handbook:
     - Information that is already well-covered on GSA InSite - link there
       instead of reproducing it.
     - Specific TTS org chart info (such as lists of names of supervisors and
-      facilitators). Link to the
-      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the
-      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the
-      [Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/)
-      instead.
+      facilitators).
 
 ## Choosing a development environment
 
